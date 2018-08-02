@@ -3,6 +3,8 @@ christina.r.godwin@gmail.com
 
 919-454-1419
 
+------------
+
 ### Professional Experience
 
 #### Software Engineering Director
