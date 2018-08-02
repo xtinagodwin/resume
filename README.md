@@ -11,6 +11,8 @@ public class ChristinaGodwin {
 }
 ```
 
+LinkedIn Profile: https://www.linkedin.com/in/christinavandyke/
+
 ------------
 
 ### Professional Experience
