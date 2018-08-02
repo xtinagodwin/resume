@@ -25,7 +25,7 @@ LinkedIn Profile: https://www.linkedin.com/in/christinavandyke/
 **Responsibilities:**
 - Managing multiple product teams
 - Hiring and retaining quality talent
-- Ensuring engineering best practices such as design planning sessions & code review
+- Ensuring engineering best practices such as design planning sessions, code review, & Agile development methodologies
 - Setting & meeting realistic project deadlines
 - Providing architectural guidance to my teams
 - Conducting one-on-one feedback sessions key employees (including Software Engineering Managers, Scrum Master, and QA Manager)
