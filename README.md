@@ -1,6 +1,15 @@
 ## Christina Godwin
-> christina.r.godwin@gmail.com
-> 919-454-1419
+```
+public class ChristinaGodwin {
+    
+    private String phoneNumber = "919-454-1419";
+    private String email = "christina.godwin@gmail.com";
+
+     public static void main(String []args){
+        System.out.println("Hello World!");
+     }
+}
+```
 
 ------------
 
