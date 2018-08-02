@@ -1,7 +1,6 @@
 ## Christina Godwin
-christina.r.godwin@gmail.com
-
-919-454-1419
+> christina.r.godwin@gmail.com
+> 919-454-1419
 
 ------------
 
