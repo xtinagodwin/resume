@@ -27,14 +27,14 @@ LinkedIn Profile: https://www.linkedin.com/in/christinavandyke/
 - Hiring and retaining quality talent
 - Ensuring engineering best practices such as design planning sessions, code review, & Agile development methodologies
 - Setting & meeting realistic project deadlines
-- Providing architectural guidance to my teams
-- Conducting one-on-one feedback sessions key employees (including Software Engineering Managers, Scrum Master, and QA Manager)
+- Providing architectural guidance
+- Conducting one-on-one feedback sessions with key employees (including Software Engineering Managers, Scrum Master, and QA Manager)
 - Conducting annual performance reviews
 - Promoting employee engagement through activities such as training & team building exercises
 - Keeping R&D costs under control (including AWS & Google Cloud costs)
 - Managing the office budget
 - Identifying/removing roadblocks and escalating them to upper management as needed
-- Managing partnerships with external resources
+- Managing partnerships with external resources (such as offshore & nearshore staffing vendors)
 - Participating in strategy/planning sessions with C-level leadership
 
 **Key Projects:**
